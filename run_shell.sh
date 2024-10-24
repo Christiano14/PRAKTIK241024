@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "---baris ini adalah shell script CHRISTIANO yang  di jalankan---"
-python3 hallo.py
+python3 hallo.py belajar_subprogram.py
 
